@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test App</string>
+    
+    <string name="string_true">Верно</string>
+    <string name="string_false">Неверно, попробуй еще раз</string>
+
+    <string name="string_message">Переведи стрелки часов на:</string>
+
+    <string name="time_template">%1$s:%2$s</string>
+
+    <string name="button_submit">✓</string>
+</resources>
